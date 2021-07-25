@@ -1,0 +1,366 @@
+.row_1{
+    color: aquamarine;
+    background-color: black;
+    font-size: 20px;
+    font-style: italic;
+}
+.row_2{
+    color:aqua;
+    font-size: 20px;
+    font-style: italic;
+    background-color: brown;
+}
+.row_3{
+color: blue;
+font-size: 20px;
+font-style: italic;
+background-color:crimson;
+}
+.row_4{
+color: azure;
+font-size: 20px;
+font-style: italic;
+background-color: blueviolet;
+}
+.row_5{
+color: beige;
+font-size: 20px;
+font-style: italic;
+background-color: blue;
+}
+.row_6{
+color: bisque;
+font-size: 20px;
+font-style: italic;
+background-color: chartreuse;
+}
+.row_7{
+color: black;
+font-size: 20px;
+font-style: italic;
+background-color: burlywood;
+}
+.row_8{
+color: blueviolet;
+font-size: 20px;
+font-style: italic;
+background-color: chocolate;
+}
+.row_9{
+color: brown;
+font-size: 20px;
+font-style: italic;
+background-color: coral;
+}
+.row_10{
+color: burlywood;
+font-size: 20px;
+font-style: italic;
+background-color: cornflowerblue;
+}
+.row_11{
+color: cadetblue;
+font-size: 20px;
+font-style: italic;
+background-color: cornsilk;
+}
+.row_12{
+color: chartreuse;
+font-size: 20px;
+font-style:normal;
+background-color: crimson;
+}
+.row_13{
+color: chocolate;
+font-size: 20px;
+font-style: normal;
+background-color: cyan;
+}
+.row_14{
+color: coral;
+font-size: 20px;
+font-style: normal;
+background-color: darkblue;
+}
+.row_15{
+color: cornflowerblue;
+font-size: 20px;
+font-style: normal;
+background-color: darkcyan ;
+}
+.row_16{
+color: cornsilk;
+font-size: 20px;
+font-style: normal;
+background-color: darkgoldenrod;
+}
+.row_17{
+color: crimson;
+font-size: 20px;
+font-style: normal;
+background-color: darkgray;
+}
+.row_18{
+color: cyan;
+font-size: 20px;
+font-style: normal;
+background-color: darkgreen;
+}
+.row_19{
+color: darkblue;
+font-size: 20px;
+font-style: normal;
+background-color: darkkhaki;
+}
+.row_20{
+color: darkcyan ;
+font-size: 20px;
+font-style: normal;
+background-color: darkmagenta;
+}
+.row_21{
+color: darkgoldenrod;
+font-size: 20px;
+font-style: normal;
+background-color: darkolivegreen;
+}
+.row_22{
+color: darkorange;
+font-size: 20px;
+font-style: normal;
+background-color: darkorchid;
+}
+.row_23{
+color: darkorchid;
+font-size: 20px;
+font-style: normal;
+background-color: darkorange;
+}
+.row_24{
+color: darkred;
+font-size: 20px;
+font-style: normal;
+background-color: darksalmon ;
+}
+.row_25{
+color: darksalmon;
+font-size: 20px;
+font-style: normal;
+background-color: darkred;
+}
+.row_26{
+color: darkseagreen;
+font-size: 20px;
+font-style: normal;
+background-color: darkslategray;
+}
+.row_27{
+color: darkslateblue;
+font-size: 20px;
+font-style: normal;
+background-color: darkturquoise;
+}
+.row_28{
+color: darkslategray;
+font-size: 20px;
+font-style: normal;
+background-color: darkviolet;
+}
+.row_29{
+color: darkviolet;
+font-size: 20px;
+font-style: normal;
+background-color: deepskyblue;
+}
+.row_30{
+color: deeppink;
+font-size: 20px;
+font-style: normal;
+background-color: dimgray;
+}
+.row_31{
+color: deepskyblue;
+font-size: 20px;
+font-style: normal;
+background-color: firebrick;
+}
+.row_32{
+color: dimgray;
+font-size: 20px;
+font-style: normal;
+background-color: floralwhite;
+}
+.row_33{
+color: dodgerblue;
+font-size: 20px;
+font-style: normal;
+background-color:forestgreen ;
+}
+.row_34{
+color: firebrick;
+font-size: 20px;
+font-style: normal;
+background-color: fuchsia;
+}
+.row_35{
+color: floralwhite;
+font-size: 20px;
+font-style: normal;
+background-color: gold;
+}
+.row_36{
+color: forestgreen;
+font-size: 20px;
+font-style: normal;
+background-color: goldenrod;
+}
+.row_37{
+color: fuchsia;
+font-size: 20px;
+font-style: normal;
+background-color: gray;
+}
+.row_38{
+color: gainsboro;
+font-size: 20px;
+font-style: normal;
+background-color: green;
+}
+.row_39{
+color: ghostwhite;
+font-size: 20px;
+font-style: normal;
+background-color: greenyellow;
+}
+.row_40{
+color: gold;
+font-size: 20px;
+font-style: normal;
+background-color: honeydew;
+}
+.row_41{
+color: goldenrod;
+font-size: 20px;
+font-style: normal;
+background-color: hotpink;
+}
+.row_42{
+color: gray;
+font-size: 20px;
+font-style: italic;
+background-color: indianred;
+}
+.row_43{
+color: honeydew;
+font-size: 20px;
+font-style: italic;
+background-color: indigo;
+}
+.row_44{
+color: hotpink;
+font-size: 20px;
+font-style: italic;
+background-color: ivory;
+}
+.row_45{
+color: indianred;
+font-size: 20px;
+font-style: italic;
+background-color: khaki;
+}
+.row_46{
+color: indigo;
+font-size: 20px;
+font-style: italic;
+background-color: lavender;
+}
+.row_47{
+color:khaki;
+font-size: 20px;
+font-style: italic;
+background-color: lawngreen;
+}
+.row_48{
+color: lavender;
+font-size: 20px;
+font-style: italic;
+background-color: lightblue;
+}
+.row_49{
+color: lavenderblush;
+font-size: 20px;
+font-style: italic;
+background-color: lightgreen;
+}
+.row_50{
+color: lawngreen;
+font-size: 20px;
+font-style: italic;
+background-color: lightpink;
+}
+.row_51{
+color: lemonchiffon;
+font-size: 20px;
+font-style: italic;
+background-color: lightseagreen;
+}
+.row_52{
+color: lightcoral;
+font-size: 20px;
+font-style: normal;
+background-color: lightcyan;
+}
+.row_53{
+color: lightcyan;
+font-size: 20px;
+font-style: normal;
+background-color: lightslategray;
+}
+.row_54{
+color: lightgreen;
+font-size: 20px;
+font-style: normal;
+background-color: lightyellow;
+}
+.row_55{
+color: lightsalmon;
+font-size: 20px;
+font-style: normal;
+background-color: magenta;
+}
+.row_56{
+color: lightseagreen;
+font-size: 20px;
+font-style: normal;
+background-color: maroon;
+}
+.row_57{
+color: lightyellow;
+font-size: 20px;
+font-style: normal;
+background-color: mediumblue;
+}
+.row_58{
+color: magenta;
+font-size: 20px;
+font-style: normal;
+background-color: mediumturquoise;
+}
+.row_59{
+color: olive;
+font-size: 20px;
+font-style: normal;
+background-color: orangered;
+}
+.row_60{
+color: orange;
+font-size: 20px;
+font-style: normal;
+background-color: paleturquoise;
+}
+.row_61{
+color: pink;
+font-size: 20px;
+font-style: oblique;
+background-color: silver;
+}
